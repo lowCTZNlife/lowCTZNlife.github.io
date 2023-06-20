@@ -1,0 +1,5 @@
+window.VUE_APP_YOUTRACK_API_URL='https://youtrack.tages.ru';
+window.VUE_APP_BACKEND_SERVICE='';
+window.VUE_APP_BACKEND_SERVICE_GRPC='https://api.portal.tages.ru';
+window.VUE_APP_REDIRECT_URI='https://portal.tages.ru';
+window.VUE_APP_TREE_OTHER='21,20,22,23,9,12,15,16,11';
